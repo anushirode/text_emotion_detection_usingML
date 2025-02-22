@@ -1,1 +1,2 @@
-# text_emotion_detection_usingML
+# TEDUMLA
+SE project, Text emotion detection using ML algorithms
